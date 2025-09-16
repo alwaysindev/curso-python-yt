@@ -7,40 +7,40 @@ El contenido está organizado por carpetas, siguiendo una progresión de dificul
 
 ## 📂 Contenido del curso
 
-1. **01_Basics**  
+**01_Basics**  
    - Introducción a Python  
    - Tipos de datos primitivos (`int`, `float`, `str`, `bool`)  
    - Operadores y primeras expresiones  
 
-2. **02_Basics**  
+**02_Basics**  
    - Variables  
    - Conversión de tipos  
    - Entrada y salida con `input()` y `print()`  
 
-3. **03_Condicionales_y_Bucles**  
+**03_Condicionales_y_Bucles**  
    - Estructuras condicionales (`if`, `elif`, `else`)  
    - Bucles `for` y `while`  
    - Uso de `break` y `continue`  
 
-4. **04_Listas_y_otros_objetos**  
+**04_Listas_y_otros_objetos**  
    - Listas y tuplas  
    - Diccionarios y conjuntos  
    - Operaciones y métodos más comunes  
 
-5. **05_Funciones**  
+**05_Funciones**  
    - Definición y uso de funciones (`def`)  
    - Parámetros y valores de retorno  
    - Ámbito de variables  
 
-6. **06_Control_de_errores**  
+**06_Control_de_errores**  
    - Introducción al manejo de excepciones  
    - Uso de `try`, `except`, `finally`  
 
-7. **07_Manejo_de_Archivos**  
+**07_Manejo_de_Archivos**  
    - Lectura y escritura de archivos de texto  
    - Modos de apertura (`r`, `w`, `a`)  
 
-8. **08_POO**  
+**08_POO**  
    - Conceptos básicos de Programación Orientada a Objetos  
    - Clases y objetos  
    - Métodos y atributos  
