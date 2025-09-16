@@ -69,7 +69,7 @@ El contenido está organizado por carpetas, siguiendo una progresión de dificul
 
 ## 🎯 Objetivo de aprendizaje
 
-* Al finalizar este curso serás capaz de:
+Al finalizar este curso serás capaz de:
 
 - Escribir programas sencillos en Python.
 
